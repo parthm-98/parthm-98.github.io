@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1112px" height="1375px" viewBox="0 0 1112 1375" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1">
+            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="1112" height="1375"></rect>
+            <text id="Features-included-in" fill="#181818" font-family="Poppins-SemiBold, Poppins SemiBold" font-size="40" font-weight="500">
+                <tspan x="233" y="94">Features included in the tablet</tspan>
+            </text>
+            <g id="Group-2" transform="translate(86.000000, 217.000000)">
+                <rect id="Rectangle" fill="#FFEDED" fill-rule="nonzero" x="0" y="0" width="165" height="142" rx="8"></rect>
+                <g id="SOS-Emergency" transform="translate(25.000000, 95.000000)" fill="#181818" font-family="RobotoCondensed-Bold, Roboto Condensed" font-size="18" font-style="condensed" font-weight="bold">
+                    <text>
+                        <tspan x="0" y="17">SOS Emergency</tspan>
+                    </text>
+                </g>
+                <g id="Group-940-Copy" transform="translate(55.000000, 27.000000)">
+                    <circle id="Oval" fill="#FF0000" fill-rule="nonzero" cx="27" cy="27" r="27"></circle>
+                    <path d="M28.173913,14.0869565 L28.173913,30.5217391" id="Stroke-5013" stroke="#FFFFFF" stroke-width="3.96068456" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M28.173913,35.2173913 C26.877913,35.2173913 25.826087,36.2692174 25.826087,37.5652174 C25.826087,38.8612174 26.877913,39.9130435 28.173913,39.9130435 C29.4652174,39.9130435 30.5217391,38.8612174 30.5217391,37.5652174 C30.5217391,36.2692174 29.4652174,35.2173913 28.173913,35.2173913" id="Fill-5014" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+            <g id="Group-2-Copy" transform="translate(86.000000, 419.000000)">
+                <rect id="Rectangle" fill="#EDFFF0" fill-rule="nonzero" x="0" y="0" width="165" height="142" rx="8"></rect>
+                <g id="Group-940-Copy-2" transform="translate(53.000000, 25.000000)">
+                    <circle id="Oval" fill="#00CE7D" fill-rule="nonzero" cx="29" cy="29" r="29"></circle>
+                    <g id="Group-1011-Copy" transform="translate(13.000000, 12.000000)">
+                        <path d="M16.4453987,29.9914272 C12.8591128,33.6696692 6.98793559,33.6696692 3.40023048,29.9914272 C-0.187474622,26.3131853 -0.187474622,20.291465 3.40164967,16.6117675 L16.4453987,3.23065217 C20.0316846,-0.447589792 25.9028619,-0.447589792 29.490567,3.23065217 C33.0796913,6.91034972 33.0796913,12.9320699 29.490567,16.6117675 L16.4453987,29.9914272 L16.4453987,29.9914272 Z" id="Stroke-753" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <path d="M9.97373188,10.2294686 L22.6675725,23.2487923" id="Stroke-754" stroke="#00CE7D" stroke-width="1.26125999" stroke-linejoin="round"></path>
+                        <path d="M15.4433107,9.40579017 L18.4519874,6.31705671 C20.6701769,4.04344612 24.264978,4.04344612 26.4803291,6.31705671" id="Stroke-755" stroke="#00CE7D" stroke-width="1.26125999" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+                <g id="Medicine-Reminder" transform="translate(13.000000, 95.000000)" fill="#181818" font-family="RobotoCondensed-Bold, Roboto Condensed" font-size="18" font-style="condensed" font-weight="bold">
+                    <text>
+                        <tspan x="0" y="17">Medicine Reminder</tspan>
+                    </text>
+                </g>
+            </g>
+            <text id="Since-it-was-difficu" fill="#181818" font-family="Poppins-Regular, Poppins" font-size="21" font-weight="normal">
+                <tspan x="320" y="468">Since it was difficult for the elderly people to take their medicines </tspan>
+                <tspan x="320" y="499.100128">on time this feature was introduced. The caretaker gets a </tspan>
+                <tspan x="320" y="530.200256">feedback if the elderly person has failed to take their medicines.</tspan>
+            </text>
+            <text id="The-caretakers-keep" fill="#181818" font-family="Poppins-Regular, Poppins" font-size="21" font-weight="normal">
+                <tspan x="320" y="703">The caretakers keep track of the answers given by the elderly </tspan>
+                <tspan x="320" y="734.100128">person during their daily Q&amp;A session. This data can be used to </tspan>
+                <tspan x="320" y="765.200256">analyse a person’s mood and provide special help if needed. </tspan>
+            </text>
+            <text id="Dementia-is-common-i" fill="#181818" font-family="Poppins-Regular, Poppins" font-size="21" font-weight="normal">
+                <tspan x="320" y="920">Dementia is common in elderly people. Hence, geofencing is used </tspan>
+                <tspan x="320" y="951.100128">to track the location of the elderly people. A perimeter is set by the </tspan>
+                <tspan x="320" y="982.200256">caretakers. If a certain boundary is crossed, the caretaker gets a </tspan>
+                <tspan x="320" y="1013.30038">notification.</tspan>
+            </text>
+            <g id="Group" transform="translate(86.000000, 654.000000)">
+                <g id="Group-2-Copy-2">
+                    <rect id="Rectangle" fill="#FAEDFF" fill-rule="nonzero" x="0" y="0" width="165" height="142" rx="8"></rect>
+                    <text id="Daily-Q&amp;A-Session" fill="#181818" font-family="RobotoCondensed-Bold, Roboto Condensed" font-size="18" font-style="condensed" font-weight="bold">
+                        <tspan x="16" y="112">Daily Q&amp;A Session</tspan>
+                    </text>
+                </g>
+                <g id="Group-940-Copy-2" transform="translate(53.000000, 28.000000)" fill-rule="nonzero">
+                    <g id="Group-11">
+                        <g id="conversation" transform="translate(0.848739, 0.848739)">
+                            <path d="M30.8598553,0 L26.2831826,0 C11.7905967,0 0,11.4199892 0,25.4570373 C0,39.4940855 11.7905967,50.9138995 26.2830018,50.9138995 L30.8596745,50.9138995 C33.1216998,50.9138995 35.3605787,50.6355896 37.5305606,50.0856254 L44.2913201,56.6301994 C44.6372514,56.9649069 45.0994575,57.1428571 45.5699819,57.1428571 C45.8030741,57.1428571 46.0381555,57.0992453 46.2618445,57.0093945 C46.9374322,56.7382656 47.3779385,56.0996766 47.3779385,55.3913788 L47.3779385,45.2580256 C50.2403255,43.0128055 52.6180832,40.1766366 54.2867993,37.0082122 C56.1820976,33.4096248 57.1428571,29.5232695 57.1428571,25.4570373 C57.1428571,11.4199892 45.3522604,0 30.8598553,0 Z" id="Shape" fill="#8900FF"></path>
+                            <path d="M39.9753845,17.2429348 C39.6345528,12.6304364 35.6484986,8.91223616 30.7034861,8.59430757 C27.9003046,8.41474291 25.2251417,9.29670283 23.1775531,11.0797909 C21.158072,12.8382027 20,15.3239064 20,17.8997229 C20,19.1165764 21.0576885,20.1029703 22.3619662,20.1029703 C23.666244,20.1029703 24.7239324,19.1165764 24.7239324,17.8997229 C24.7239324,16.5207103 25.3196203,15.2426065 26.4009284,14.3011589 C27.4812918,13.3605926 28.8932752,12.8950465 30.3789519,12.9906674 C32.9837283,13.1581142 35.0832801,15.1165808 35.2627895,17.5461017 C35.4441885,19.9998583 33.7182998,22.1682943 31.1593456,22.7023615 C29.0860116,23.1350793 27.6381263,24.8157164 27.6381263,26.7891651 L27.6381263,32.0824669 C27.6381263,33.2993204 28.6958148,34.2857143 30.0000926,34.2857143 C31.3046065,34.2857143 32.3620588,33.2993204 32.3618226,32.0824669 L32.3618226,26.9652045 C37.1211845,25.8926637 40.3143266,21.8303162 39.9753845,17.2429348 Z" id="Path" fill="#FFFFFF"></path>
+                            <path d="M31.5998319,37.98 C31.0684034,37.4485714 30.3312605,37.1428571 29.5798319,37.1428571 C28.8284034,37.1428571 28.0912605,37.4485714 27.5598319,37.98 C27.0284034,38.5114286 26.7226891,39.2485714 26.7226891,40 C26.7226891,40.7542857 27.0286891,41.4914286 27.5598319,42.0228571 C28.0912605,42.5542857 28.8284034,42.8571429 29.5798319,42.8571429 C30.3312605,42.8571429 31.0684034,42.5542857 31.5998319,42.0228571 C32.1312605,41.4885714 32.4369748,40.7542857 32.4369748,40 C32.4369748,39.2485714 32.1309748,38.5114286 31.5998319,37.98 Z" id="Path" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Group-Copy-5" transform="translate(86.000000, 889.000000)">
+                <g id="Group-2-Copy-2">
+                    <rect id="Rectangle" fill="#EDF2FF" fill-rule="nonzero" x="0" y="0" width="165" height="142" rx="8"></rect>
+                    <g id="Group-20-Copy" transform="translate(58.000000, 31.000000)">
+                        <circle id="Oval" stroke="#0064FF" stroke-width="4.23359962" fill="#0064FF" fill-rule="nonzero" cx="24.2999983" cy="24.2999983" r="24.2999983"></circle>
+                        <g id="noun_Location_581229" transform="translate(12.000000, 10.000000)">
+                            <g id="Group">
+                                <path d="M11.9999992,22.4345199 C11.7073838,22.4345199 11.4323069,22.30509 11.2587684,22.085922 C10.9495377,21.6967693 3.69230743,12.4917133 3.69230743,7.76579535 C3.69230743,3.48425351 7.41969178,0 11.9999992,0 C16.5812296,0 20.3076909,3.48425351 20.3076909,7.76579535 C20.3076909,12.4917133 13.0504606,21.6967693 12.7412299,22.085922 C12.5676914,22.30509 12.2926145,22.4345199 11.9999992,22.4345199 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                                <path d="M12.0899991,3.27889137 C10.8491242,3.27889137 9.8399993,4.20768049 9.8399993,5.34977013 C9.8399993,6.49185977 10.8491242,7.42064889 12.0899991,7.42064889 C13.3308741,7.42064889 14.3399993,6.49185977 14.3399993,5.34977013 C14.3399993,4.20768049 13.3308741,3.27889137 12.0899991,3.27889137 Z" id="Shape" fill="#0064FF" fill-rule="nonzero"></path>
+                                <path d="M12,27.6117168 C6.18276879,27.6117168 0,25.9274021 0,22.8046895 C0,21.2558447 1.55630758,19.9149507 4.38092277,19.0279243 C4.86461504,18.8786485 5.38799962,19.1193882 5.54953807,19.57153 C5.7119996,20.022809 5.45169192,20.512917 4.96892273,20.6647814 C2.66399981,21.3870004 1.84615372,22.2697125 1.84615372,22.8046895 C1.84615372,24.0610226 5.80153805,25.8859845 12,25.8859845 C18.1984603,25.8859845 22.1538446,24.0610226 22.1538446,22.8046895 C22.1538446,22.2697125 21.3350754,21.3870004 19.0301525,20.6639186 C18.5473833,20.5111913 18.2861526,20.022809 18.4486141,19.5706671 C18.6119987,19.1193882 19.1353833,18.8769228 19.6181525,19.0270615 C22.4436907,19.9149507 24,21.2567076 24,22.8046895 C24,25.9274021 17.8172295,27.6117168 12,27.6117168 Z" id="Path" fill="#FFFFFF"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <text id="Geofencing" fill="#181818" font-family="RobotoCondensed-Bold, Roboto Condensed" font-size="18" font-style="condensed" font-weight="bold">
+                        <tspan x="42" y="112">Geofencing</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group-Copy-6" transform="translate(86.000000, 1124.000000)">
+                <g id="Group-2-Copy-2">
+                    <rect id="Rectangle" fill="#FFEBCC" fill-rule="nonzero" x="0" y="0" width="165" height="142" rx="8"></rect>
+                    <g id="Group-20-Copy" transform="translate(58.000000, 31.000000)">
+                        <circle id="Oval" fill="#FF9B00" fill-rule="nonzero" cx="24.2999983" cy="24.2999983" r="24.2999983"></circle>
+                        <g id="noun_Banned-User_418543-Copy" transform="translate(12.000000, 9.000000)" fill="#FFFFFF">
+                            <path d="M16.0102903,14.916061 C18.2227676,13.177875 19.7111615,9.94404065 19.7111615,6.87189801 C19.7111615,2.42537577 16.5734664,0 12.6714609,0 C8.76945551,0 5.63176042,2.42537577 5.63176042,6.87189801 C5.63176042,9.94404065 7.12015424,13.2182979 9.33263155,14.916061 C3.94223229,16.1287489 0,20.1306189 0,23.8495284 C0,28.2960506 5.67198728,30.7214264 12.6714609,30.7214264 C13.9587205,30.7214264 15.2057531,30.6405805 16.4125589,30.4788888 C15.0850726,29.3470468 14.2805353,27.7301296 14.2805353,25.8706749 C14.2805353,22.5155717 16.975735,19.8072354 20.3145644,19.8072354 C22.2454537,19.8072354 23.9752086,20.7369628 25.1015607,22.1517654 C24.1361161,18.9987769 20.5961524,15.9670571 16.0102903,14.916061 Z" id="Path"></path>
+                            <path d="M26,26 C26,23.2395833 23.7604167,21 21,21 C18.2395833,21 16,23.2395833 16,26 C16,28.7604167 18.2395833,31 21,31 C23.7604167,31 26,28.7604167 26,26 Z M17.5625,26 C17.5625,24.125 19.125,22.5625 21,22.5625 C21.6770833,22.5625 22.25,22.7708333 22.8229167,23.0833333 L18.0833333,27.8229167 C17.7708333,27.25 17.5625,26.6770833 17.5625,26 Z M23.9166667,24.1770833 C24.2291667,24.6979167 24.4375,25.3229167 24.4375,26 C24.4375,27.875 22.875,29.4375 21,29.4375 C20.3229167,29.4375 19.6979167,29.2291667 19.1770833,28.9166667 L23.9166667,24.1770833 Z" id="Shape" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                    <text id="Inactivity-Period" fill="#181818" font-family="RobotoCondensed-Bold, Roboto Condensed" font-size="18" font-style="condensed" font-weight="bold">
+                        <tspan x="24" y="112">Inactivity Period</tspan>
+                    </text>
+                </g>
+                <text id="If-the-inactivity-ti" fill="#181818" font-family="Poppins-Regular, Poppins" font-size="21" font-weight="normal">
+                    <tspan x="234" y="62">If the inactivity time crosses a certain number of hours, the </tspan>
+                    <tspan x="234" y="93.1001282">caretaker is alerted and asked to check up on the elderly person. </tspan>
+                </text>
+            </g>
+            <g id="Group-4-Copy" transform="translate(320.000000, 244.000000)" fill="#181818" font-family="Poppins-Regular, Poppins" font-size="21" font-weight="normal">
+                <g id="The-elderly-people-w">
+                    <text id="The-SOS-Emergency-is">
+                        <tspan x="0" y="22">The SOS Emergency is triggered on the tablet when the elderly </tspan>
+                        <tspan x="0" y="53.1001282">person wearing the watch presses the SOS Button or when they </tspan>
+                        <tspan x="0" y="84.2002563">might fall (Since the watch has a feature of fall detection).</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
