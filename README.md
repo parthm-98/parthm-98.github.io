@@ -1,2 +1,2 @@
-# parthm-98.github.io
+# parthm.github.io
 Porftolio Website
