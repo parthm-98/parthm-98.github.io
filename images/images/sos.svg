@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="165px" height="142px" viewBox="0 0 165 142" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56 (81588) - https://sketch.com -->
+    <title>Group-2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2-Copy" transform="translate(-118.000000, -5595.000000)">
+            <g id="1" transform="translate(89.000000, 5378.000000)">
+                <g id="Group-2" transform="translate(29.000000, 217.000000)">
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="165" height="142" rx="8"></rect>
+                    <g id="SOS-Emergency" transform="translate(25.000000, 95.000000)" fill="#181818" font-family="RobotoCondensed-Bold, Roboto Condensed" font-size="18" font-style="condensed" font-weight="bold">
+                        <text>
+                            <tspan x="0" y="17">SOS Emergency</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-940-Copy" transform="translate(55.000000, 27.000000)">
+                        <circle id="Oval" fill="#FF0000" fill-rule="nonzero" cx="27" cy="27" r="27"></circle>
+                        <path d="M28.173913,14.0869565 L28.173913,30.5217391" id="Stroke-5013" stroke="#FFFFFF" stroke-width="3.96068456" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M28.173913,35.2173913 C26.877913,35.2173913 25.826087,36.2692174 25.826087,37.5652174 C25.826087,38.8612174 26.877913,39.9130435 28.173913,39.9130435 C29.4652174,39.9130435 30.5217391,38.8612174 30.5217391,37.5652174 C30.5217391,36.2692174 29.4652174,35.2173913 28.173913,35.2173913" id="Fill-5014" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
